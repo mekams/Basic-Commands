@@ -3,8 +3,8 @@ Keys in keyboard
 ~       -->     tilda
 `       -->     backtick
 !       -->     bang (exclamation)
-#       -->     hashtag (pound)
-$       -->     dollar (scripting) (invariable)
+#       -->     hashtag (pound)                   --> root
+$       -->     dollar (scripting) (invariable)   --> local user
 %       -->     percentage
 ^       -->     carrot
 *       -->     aesterisk (star)
