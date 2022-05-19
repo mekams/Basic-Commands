@@ -1,4 +1,4 @@
-Keys in keyboard
+Keys in Keyboard
 
 ~       -->     tilda
 `       -->     backtick
@@ -12,7 +12,7 @@ $       -->     dollar (scripting) (invariable)   --> local user
 /       -->     forward slash
 \       -->     backward slash
 
-Filesystem structure in Linux
+Filesystem Structure in Linux
 
 /boot   -->     static bootloader files (grub.cfg)
 /root   -->     root home directory
