@@ -1,8 +1,26 @@
+Basic Terminal Commands
+
 ctrl+shift+	-->	size up
 ctrl-		-->	size down
 ctrl+A  	--> 	start line
 ctrl+E  	--> 	end line
 ctrl+w		-->	one word delete
 ctrl+U		-->	full line delete
+ctrl+C          -->     interupt
+su              -->     switch user root to current directory
+su -            -->     switch user root to /root directory
 
+Keys in keyboard
+
+~       -->     tilda
+`       -->     backtick
+!       -->     bang (exclamation)
+#       -->     hashtag (pound)
+$       -->     dollar (scripting) (invariable)
+%       -->     percentage
+^       -->     carrot
+*       -->     aesterisk (star)
+|       -->     pipe
+/       -->     forward slash
+\       -->     backward slash
 
