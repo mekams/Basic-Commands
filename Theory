@@ -1,1 +1,31 @@
+Keys in keyboard
 
+~       -->     tilda
+`       -->     backtick
+!       -->     bang (exclamation)
+#       -->     hashtag (pound)
+$       -->     dollar (scripting) (invariable)
+%       -->     percentage
+^       -->     carrot
+*       -->     aesterisk (star)
+|       -->     pipe
+/       -->     forward slash
+\       -->     backward slash
+
+Filesystem structure in Linux
+
+/boot   -->     static bootloader files (grub.cfg)
+/root   -->     root home directory
+/dev    -->     system devices file
+/etc    -->     configuration files
+/bin    -->     everyday user commands binaries
+/sbin   -->     same as bin but superuser priveleges
+/opt    -->     add on application (extra apps which are not part of OS)
+/proc   -->     current processes (control & info center of Kernel))
+/lib    -->     library files required by programs and apps (shared library)
+/tmp    -->     temporary files
+/home   -->     user home directory
+/var    -->     system logs
+/run    -->     system daemons (PID files)
+/mnt    -->     mounted filesystems (i.e NFS)
+/media  -->     CD-ROM mounts
