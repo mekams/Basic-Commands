@@ -7,20 +7,11 @@ ctrl+E  	--> 	end line
 ctrl+w		-->	one word delete
 ctrl+U		-->	full line delete
 ctrl+C          -->     interupt
+
 su              -->     switch user root to current directory
 su -            -->     switch user root to /root directory
-
-Keys in keyboard
-
-~       -->     tilda
-`       -->     backtick
-!       -->     bang (exclamation)
-#       -->     hashtag (pound)
-$       -->     dollar (scripting) (invariable)
-%       -->     percentage
-^       -->     carrot
-*       -->     aesterisk (star)
-|       -->     pipe
-/       -->     forward slash
-\       -->     backward slash
+cd              -->     change directory        --> .. for back to parent directory
+cd ~            -->     takes to home directory
+pwd             -->     print working directory
+ls              -->     list all files          --> ls -lti, ltr, lta, ll
 
