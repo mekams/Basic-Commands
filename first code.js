@@ -3,4 +3,5 @@ function add(a, b) { //function to add two numbers
 }
 console.log(add(2,9)); ////function returned the value
 
-//nice one  slave branch
+//nice one  slave branchdgit status
+///
